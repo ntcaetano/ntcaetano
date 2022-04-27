@@ -1,4 +1,4 @@
-#### Hello i'm Natanael and i'm a Fullstack Developer
+#### Hello i'm Natanael
 
 - 🔭 I’m currently working on BlueCable
 - 🌱 I’m currently learning Typescript
