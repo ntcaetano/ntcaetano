@@ -4,6 +4,9 @@
 - 🌱 I’m currently learning Typescript
 -->
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natanael-caetano-4b8317146/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ntcaetano/)
+
 <div style="display: inline_block">
   <a href="https://github.com/ntcaetano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ntcaetano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -25,8 +28,4 @@
    <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </div><br/>
 
-  <a href="https://instagram.com/ntcaetano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "natacaet@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/natanael-caetano-4b8317146/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-</div>
