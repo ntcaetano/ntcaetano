@@ -1,4 +1,4 @@
-### Olá, me chamo Natanael
+### Hi, im Natanael
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natanael-caetano-4b8317146/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ntcaetano/)
@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntcaetano&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-## Tecnologias 🚀
+## Technologies 🚀
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-E54B25?style=for-the-badge&logo=html5&logoColor=white">
